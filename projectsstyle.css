@@ -1,0 +1,181 @@
+.header{
+    border:solid black;
+    display: flex;
+    justify-content: center;
+    font-size: 35px;
+    font-style: italic;
+    font-family: "Castellar";
+    color:deeppink;
+}
+
+body{
+    background-image: "images/bg.jpg";
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.aboutme{
+    border: solid black;
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
+}
+
+.subheader1{
+    border:solid black;
+    display: flex;
+    justify-content: space-around;
+    font-family:"Copperplate";
+    font-weight: bold;
+    font-size: 30px;
+    color: rebeccapurple;
+}
+
+.subheader2{
+    border:solid black;
+    display: flex;
+    justify-content: space-around;
+    font-family: "Brush Script MT";
+    font-size: 30px;
+    color: red;
+}
+
+.games{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    text-align: center;
+    border: solid black;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+.games img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+.simplegames{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    text-align: center;
+    border: solid black;
+    padding: 20px;
+}
+.simplegames img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+.Ponggames{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    text-align: center;
+    border: solid black;
+    padding: 20px;
+}
+
+.Ponggames img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+.Infiniterunnergames{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    text-align: center;
+    border: solid black;
+    padding: 20px;
+}
+.Infiniterunnergames img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+.Sling-ShotGames{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    text-align: center;
+    border: solid black;
+    padding: 20px;
+}
+.Sling-ShotGames img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+.multiplayergames{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    text-align: center;
+    border: solid black;
+    padding: 20px;
+}
+.multiplayergames img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+.Others{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    text-align: center;
+    border: solid black;
+    padding: 20px;
+}
+.Others img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+.pts{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    text-align: center;
+    border: solid black;
+    padding: 20px;
+}
+.pts img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    text-align: center;
+    font-weight:500px;
+    font-family: "Comic sans MS";
+    color:mediumvioletred;
+    font-style: italic;
+}
+
+p{
+    text-align: center;
+    font-family: "Colonna MT";
+    font-weight: bold;
+    font-style: italic;
+    color:purple;
+    font-size: 30px;
+
+}
+h6{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+.end{
+    /*background-color: lightpink;
+    border: lightpink;*/
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
